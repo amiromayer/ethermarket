@@ -1,4 +1,4 @@
-pragma solidity ^0.4.11;
+pragma solidity ^0.4.18;
 
 import {StandardToken as ERC20} from "./StandardToken.sol";
 
